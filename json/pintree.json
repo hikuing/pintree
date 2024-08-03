@@ -40757,6 +40757,13 @@
                 "title": "RoguePE -可能是迄今为止最适合年轻人的WinPE",
                 "icon": "https://logo.clearbit.com/www.roguepe.cn",
                 "url": "https://www.roguepe.cn/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1722666783594,
+                "title": "HotPE - 一个纯净、强大、优雅的PE工具箱",
+                "icon": "https://logo.clearbit.com/www.hotpe.top",
+                "url": "https://www.hotpe.top/"
               }
             ]
           },
@@ -42764,6 +42771,13 @@
             "title": "Kimi Chat - 帮你看更大的世界",
             "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
             "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722666091391,
+            "title": "AI助手",
+            "icon": "https://logo.clearbit.com/bot.360.com",
+            "url": "https://bot.360.com/"
           },
           {
             "type": "link",
@@ -45157,6 +45171,13 @@
           },
           {
             "type": "link",
+            "addDate": 1722666335431,
+            "title": "有用经验",
+            "icon": "https://logo.clearbit.com/yyjingyan.com",
+            "url": "https://yyjingyan.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1689756992000,
             "title": "微信读书",
             "icon": "https://logo.clearbit.com/weread.qq.com",
@@ -45266,13 +45287,6 @@
             "title": "网配蔡司智锐个化版的过程分享&线上配镜",
             "icon": "https://logo.clearbit.com/bbs.nga.cn",
             "url": "https://bbs.nga.cn/read.php?tid=37194262&rand=201"
-          },
-          {
-            "type": "link",
-            "addDate": 1715303250000,
-            "title": "996忍者！ | 996忍者！",
-            "icon": "https://logo.clearbit.com/996.ninja",
-            "url": "https://996.ninja/"
           },
           {
             "type": "link",
