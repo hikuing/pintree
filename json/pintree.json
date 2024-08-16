@@ -42111,6 +42111,13 @@
                 "title": "吐司简历",
                 "icon": "https://logo.clearbit.com/lyly.top",
                 "url": "https://lyly.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723709772095,
+                "title": "轻简历-轻轻松松制作简历",
+                "icon": "https://logo.clearbit.com/www.wktline.com",
+                "url": "https://www.wktline.com/"
               }
             ]
           },
@@ -42765,6 +42772,13 @@
             "title": "Outfitify - 穿搭打分",
             "icon": "https://logo.clearbit.com/outfitify.tech",
             "url": "https://outfitify.tech/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723709944436,
+            "title": "秦始皇兵马俑",
+            "icon": "https://logo.clearbit.com/baikebcs.bdimg.com",
+            "url": "https://baikebcs.bdimg.com/baike-museum3d/qinshihuang/index.html"
           }
         ]
       },
@@ -43500,6 +43514,13 @@
             "title": "element省市区级联数据",
             "icon": "https://logo.clearbit.com/www.npmjs.com",
             "url": "https://www.npmjs.com/package/element-china-area-data"
+          },
+          {
+            "type": "link",
+            "addDate": 1723709497647,
+            "title": "CSS可视化",
+            "icon": "https://logo.clearbit.com/css.bqrdh.com",
+            "url": "https://css.bqrdh.com/safety-color"
           }
         ]
       },
@@ -47426,13 +47447,6 @@
         "title": "Microsoft Rewards",
         "icon": "https://logo.clearbit.com/rewards.bing.com",
         "url": "https://rewards.bing.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1705476123000,
-        "title": "猿急送",
-        "icon": "https://logo.clearbit.com/www.yuanjisong.com",
-        "url": "https://www.yuanjisong.com/job"
       },
       {
         "type": "link",
