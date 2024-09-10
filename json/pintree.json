@@ -6570,12 +6570,6 @@
                   },
                   {
                     "type": "link",
-                    "title": "大眼仔旭",
-                    "icon": "https://logo.clearbit.com/www.dayanzai.me",
-                    "url": "http://www.dayanzai.me/"
-                  },
-                  {
-                    "type": "link",
                     "title": "懒得勤快",
                     "icon": "https://logo.clearbit.com/ldqk.xyz",
                     "url": "https://ldqk.xyz/"
@@ -44489,8 +44483,8 @@
             "type": "link",
             "addDate": 1689344891000,
             "title": "LIBVIO影视 - 超清在线视频站",
-            "icon": "https://logo.clearbit.com/libvio.link",
-            "url": "https://libvio.link/"
+            "icon": "https://logo.clearbit.com/www.libvio.link",
+            "url": "https://www.libvio.link/"
           },
           {
             "type": "link",
@@ -44524,8 +44518,8 @@
             "type": "link",
             "addDate": 1699496396000,
             "title": "厂长资源",
-            "icon": "https://logo.clearbit.com/www.czys.top",
-            "url": "https://www.czys.top/"
+            "icon": "https://logo.clearbit.com/www.czys.pro",
+            "url": "https://www.czys.pro/"
           },
           {
             "type": "link",
@@ -44545,8 +44539,8 @@
             "type": "link",
             "addDate": 1693464986000,
             "title": "哔嘀影视",
-            "icon": "https://logo.clearbit.com/www.yjys.me",
-            "url": "https://www.yjys.me/"
+            "icon": "https://logo.clearbit.com/www.yjys02.com",
+            "url": "https://www.yjys02.com/"
           },
           {
             "type": "link",
@@ -45148,6 +45142,13 @@
             "title": "金牌影院",
             "icon": "https://logo.clearbit.com/fjvtw.com",
             "url": "https://fjvtw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725936999526,
+            "title": "人人影视分享美剧字幕 - 提供最新影视剧介绍和影评，发布最新的字幕包括美剧,日剧,电影,动漫等，发布最新电影排行榜、本周电影口碑榜和高分电影TOP50",
+            "icon": "https://logo.clearbit.com/yyets.com",
+            "url": "https://yyets.com/"
           }
         ]
       },
@@ -46206,13 +46207,6 @@
           },
           {
             "type": "link",
-            "addDate": 1701838204000,
-            "title": "仿站小工具",
-            "icon": "https://logo.clearbit.com/smalltool.github.io",
-            "url": "https://smalltool.github.io/"
-          },
-          {
-            "type": "link",
             "addDate": 1701846916000,
             "title": "ArcTime Pro跨平台字幕软件 | Arctime字幕软件",
             "icon": "https://logo.clearbit.com/arctime.org",
@@ -46497,6 +46491,19 @@
             "title": "资源分享-PC软件库",
             "icon": "https://logo.clearbit.com/www.pcoof.com",
             "url": "https://www.pcoof.com/resource"
+          },
+          {
+            "type": "link",
+            "addDate": 1725936771700,
+            "title": "殁漂遥 mpyit.com 老殁 汇集分享全网资源",
+            "icon": "https://logo.clearbit.com/www.mpyit.com",
+            "url": "https://www.mpyit.com/"
+          },
+          {
+            "type": "link",
+            "title": "大眼仔旭",
+            "icon": "https://logo.clearbit.com/www.dayanzai.me",
+            "url": "http://www.dayanzai.me/"
           }
         ]
       },
