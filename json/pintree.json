@@ -21080,12 +21080,6 @@
                   },
                   {
                     "type": "link",
-                    "title": "Musicca 乐理学习",
-                    "icon": "https://logo.clearbit.com/www.musicca.com",
-                    "url": "https://www.musicca.com/zh"
-                  },
-                  {
-                    "type": "link",
                     "title": "───────────",
                     "icon": "https://logo.clearbit.com/separator.mayastudios.com",
                     "url": "https://separator.mayastudios.com/index.php?t=horz"
@@ -42779,6 +42773,33 @@
             "title": "秦始皇兵马俑",
             "icon": "https://logo.clearbit.com/baikebcs.bdimg.com",
             "url": "https://baikebcs.bdimg.com/baike-museum3d/qinshihuang/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1724809832656,
+            "title": "猫点饭官网 – 路由器选购",
+            "icon": "https://logo.clearbit.com/mao.fan",
+            "url": "https://mao.fan/"
+          },
+          {
+            "type": "link",
+            "title": "Musicca 乐理学习",
+            "icon": "https://logo.clearbit.com/www.musicca.com",
+            "url": "https://www.musicca.com/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1725334135006,
+            "title": "面试题库",
+            "icon": "https://logo.clearbit.com/career.guru99.com",
+            "url": "https://career.guru99.com/zh-CN/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725344934193,
+            "title": "uIPCat-手机变IP摄像头",
+            "icon": "https://logo.clearbit.com/uipcat.cn",
+            "url": "https://uipcat.cn/"
           }
         ]
       },
@@ -42787,6 +42808,13 @@
         "addDate": 1719794937254,
         "title": "大模型",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1722666091391,
+            "title": "AI助手",
+            "icon": "https://logo.clearbit.com/bot.360.com",
+            "url": "https://bot.360.com/"
+          },
           {
             "type": "link",
             "addDate": 1700815451000,
@@ -42803,10 +42831,10 @@
           },
           {
             "type": "link",
-            "addDate": 1722666091391,
-            "title": "AI助手",
-            "icon": "https://logo.clearbit.com/bot.360.com",
-            "url": "https://bot.360.com/"
+            "addDate": 1725348429098,
+            "title": "海螺AI—MiniMax 旗下生产力产品，你的AI伙伴，10倍速提升工作学习效率",
+            "icon": "https://logo.clearbit.com/hailuoai.com",
+            "url": "https://hailuoai.com/"
           },
           {
             "type": "link",
@@ -42873,13 +42901,6 @@
           },
           {
             "type": "link",
-            "addDate": 1703043407000,
-            "title": "Gemini Pro",
-            "icon": "https://logo.clearbit.com/googlegemini.co",
-            "url": "https://googlegemini.co/try-google-gemini-for-free"
-          },
-          {
-            "type": "link",
             "addDate": 1698121730000,
             "title": "腾讯元宝",
             "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
@@ -42887,24 +42908,10 @@
           },
           {
             "type": "link",
-            "addDate": 1683532365000,
-            "title": "AI工具集",
-            "icon": "https://logo.clearbit.com/ai-bot.cn",
-            "url": "https://ai-bot.cn/"
-          },
-          {
-            "type": "link",
             "addDate": 1700819032000,
             "title": "ARC-图像修复",
             "icon": "https://logo.clearbit.com/arc.tencent.com",
             "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration"
-          },
-          {
-            "type": "link",
-            "addDate": 1701682895000,
-            "title": "AI头像生成",
-            "icon": "https://logo.clearbit.com/sdxlturbo.ai",
-            "url": "https://sdxlturbo.ai/"
           }
         ]
       },
@@ -42913,13 +42920,6 @@
         "addDate": 1719794937256,
         "title": "翻译",
         "children": [
-          {
-            "type": "link",
-            "addDate": 1718788189000,
-            "title": "微信翻译",
-            "icon": "https://logo.clearbit.com/fanyi.weixin.qq.com",
-            "url": "https://fanyi.weixin.qq.com/pages/explore"
-          },
           {
             "type": "link",
             "addDate": 1700818330000,
@@ -43127,6 +43127,13 @@
                 "title": "工具邦",
                 "icon": "https://logo.clearbit.com/cn.piliapp.com",
                 "url": "https://cn.piliapp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1725587263767,
+                "title": "秒达工具箱(MDGJX)",
+                "icon": "https://logo.clearbit.com/mdgjx.com",
+                "url": "https://mdgjx.com/"
               }
             ]
           },
@@ -45134,6 +45141,13 @@
             "title": "黑猫影视-海外华人在线影院│电影在线│免费无广告",
             "icon": "https://logo.clearbit.com/heimaotv.vip",
             "url": "https://heimaotv.vip/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725587233080,
+            "title": "金牌影院",
+            "icon": "https://logo.clearbit.com/fjvtw.com",
+            "url": "https://fjvtw.com/"
           }
         ]
       },
@@ -45371,6 +45385,13 @@
             "title": "时光图书馆 - 经典珍藏",
             "icon": "https://logo.clearbit.com/atimebook.com",
             "url": "https://atimebook.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725073899911,
+            "title": "下一本读什么",
+            "icon": "https://logo.clearbit.com/xiayibendushenme.com",
+            "url": "https://xiayibendushenme.com/"
           }
         ]
       },
@@ -46336,6 +46357,13 @@
             "title": "BoosterX - Windows optimizer, FPS booster.",
             "icon": "https://logo.clearbit.com/boosterx.org",
             "url": "https://boosterx.org/zh/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1723798261261,
+            "title": "Pastemate 最好用的复制粘贴软件",
+            "icon": "https://logo.clearbit.com/119.45.216.236",
+            "url": "http://119.45.216.236/"
           }
         ]
       },
@@ -47342,13 +47370,6 @@
             "url": "https://www.yit.com/"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1717568478000,
-        "title": "早知-个人导航",
-        "icon": "https://logo.clearbit.com/www.zz121.com",
-        "url": "https://www.zz121.com/index?nav=zrXBhDnEOQWaNGLd"
       },
       {
         "type": "link",
