@@ -26005,12 +26005,6 @@
                   },
                   {
                     "type": "link",
-                    "title": "斯诺克",
-                    "icon": "https://logo.clearbit.com/www.heyzxz.me",
-                    "url": "http://www.heyzxz.me/pcol/"
-                  },
-                  {
-                    "type": "link",
                     "title": "3D 乒乓球",
                     "icon": "https://logo.clearbit.com/oos.moxiecode.com",
                     "url": "http://oos.moxiecode.com/js_webgl/ping_pong/"
@@ -40753,6 +40747,13 @@
                 "title": "禁用Windows更新",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/tsgrgo/windows-update-disabler"
+              },
+              {
+                "type": "link",
+                "addDate": 1727060133191,
+                "title": "CPU、SOC 和 GPU比较",
+                "icon": "https://logo.clearbit.com/siliconcat.net",
+                "url": "https://siliconcat.net/"
               }
             ]
           },
@@ -41491,6 +41492,12 @@
                 "title": "在线数独",
                 "icon": "https://logo.clearbit.com/sudoku-cn.com",
                 "url": "https://sudoku-cn.com/"
+              },
+              {
+                "type": "link",
+                "title": "斯诺克",
+                "icon": "https://logo.clearbit.com/www.heyzxz.me",
+                "url": "http://www.heyzxz.me/pcol/"
               }
             ]
           },
@@ -42843,6 +42850,27 @@
             "title": "Apple 苹果产品参数中心 / HubWeb.cn",
             "icon": "https://logo.clearbit.com/hubweb.cn",
             "url": "https://hubweb.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727060945540,
+            "title": "Typing Word 在线背单词工具",
+            "icon": "https://logo.clearbit.com/typing-word.ttentau.top",
+            "url": "https://typing-word.ttentau.top/#/practice"
+          },
+          {
+            "type": "link",
+            "addDate": 1727062559178,
+            "title": "在线设计苹果手机",
+            "icon": "https://logo.clearbit.com/neal.fun",
+            "url": "https://neal.fun/design-the-next-iphone/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727062910743,
+            "title": "《默沙东诊疗手册大众版》",
+            "icon": "https://logo.clearbit.com/www.msdmanuals.cn",
+            "url": "https://www.msdmanuals.cn/home"
           }
         ]
       },
@@ -43072,6 +43100,13 @@
                 "title": "炸了么 - 网站测速,HTTP测速,PING检测,TCPPING检测,CDN测速,多地区网站测速,网络拨测工具",
                 "icon": "https://logo.clearbit.com/zhale.me",
                 "url": "https://zhale.me/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727061202484,
+                "title": "在线工具箱-By Mintimate",
+                "icon": "https://logo.clearbit.com/tool.mintimate.cn",
+                "url": "https://tool.mintimate.cn/"
               }
             ]
           },
