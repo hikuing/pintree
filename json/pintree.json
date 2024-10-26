@@ -14261,12 +14261,6 @@
                   },
                   {
                     "type": "link",
-                    "title": "美剧行星",
-                    "icon": "https://logo.clearbit.com/www.nfyingshi.com",
-                    "url": "https://www.nfyingshi.com/"
-                  },
-                  {
-                    "type": "link",
                     "title": "美剧天堂",
                     "icon": "https://logo.clearbit.com/www.meijutt.tv",
                     "url": "https://www.meijutt.tv/"
@@ -14324,12 +14318,6 @@
                     "title": "日剧TV网",
                     "icon": "https://logo.clearbit.com/rijuvip.com",
                     "url": "https://rijuvip.com/"
-                  },
-                  {
-                    "type": "link",
-                    "title": "东京不够热",
-                    "icon": "https://logo.clearbit.com/www.tnhzmz.com",
-                    "url": "https://www.tnhzmz.com/"
                   },
                   {
                     "type": "link",
@@ -27138,12 +27126,6 @@
                     "title": "126邮箱",
                     "icon": "https://logo.clearbit.com/mail.126.com",
                     "url": "https://mail.126.com/"
-                  },
-                  {
-                    "type": "link",
-                    "title": "Gmail",
-                    "icon": "https://logo.clearbit.com/mail.google.com",
-                    "url": "https://mail.google.com/mail/u/0/#inbox"
                   },
                   {
                     "type": "link",
@@ -43129,8 +43111,8 @@
                 "type": "link",
                 "addDate": 1700904766000,
                 "title": "IT Tools - 为方便开发人员提供的在线工具",
-                "icon": "https://logo.clearbit.com/www.ittools.top",
-                "url": "https://www.ittools.top/"
+                "icon": "https://logo.clearbit.com/it-tools.tech",
+                "url": "https://it-tools.tech/"
               },
               {
                 "type": "link",
@@ -44687,6 +44669,13 @@
           },
           {
             "type": "link",
+            "addDate": 1729752475289,
+            "title": "简单TV - 搜索一下 即刻观看",
+            "icon": "https://logo.clearbit.com/jiandantv.com",
+            "url": "https://jiandantv.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1630388278000,
             "title": "影视森林",
             "icon": "https://logo.clearbit.com/www.549.tv",
@@ -45285,6 +45274,46 @@
             "title": "呵呵动漫 - 免费日漫在线观看",
             "icon": "https://logo.clearbit.com/www.hehe.la",
             "url": "https://www.hehe.la/?ref=hehe&token=172835822235ffb4aa45e776285efa76e9cd18408f"
+          },
+          {
+            "type": "link",
+            "addDate": 1729910666628,
+            "title": "日剧网",
+            "icon": "https://logo.clearbit.com/www.rijutv6.com",
+            "url": "https://www.rijutv6.com/"
+          },
+          {
+            "type": "link",
+            "title": "东京不够热",
+            "icon": "https://logo.clearbit.com/www.tnhzmz.com",
+            "url": "https://www.tnhzmz.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729910739690,
+            "title": "首页 - 日剧跑",
+            "icon": "https://logo.clearbit.com/www.rijupao.com",
+            "url": "https://www.rijupao.com/"
+          },
+          {
+            "type": "link",
+            "title": "美剧行星",
+            "icon": "https://logo.clearbit.com/www.nfyingshi.com",
+            "url": "https://www.nfyingshi.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729910797348,
+            "title": "看美剧",
+            "icon": "https://logo.clearbit.com/kanmeiju.net",
+            "url": "https://kanmeiju.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729910836443,
+            "title": "冰冰字幕组 ice字幕组 最新英剧下载 英剧字幕 英剧在线观看 /detail/695",
+            "icon": "https://logo.clearbit.com/www.icezmz.com",
+            "url": "https://www.icezmz.com/"
           }
         ]
       },
@@ -47674,6 +47703,19 @@
         "title": "【中国移动】8元畅享套餐",
         "icon": "https://logo.clearbit.com/touch.10086.cn",
         "url": "https://touch.10086.cn/goods/100_100_1086569_1076589.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1729439014965,
+        "title": "推特",
+        "icon": "https://logo.clearbit.com/x.com",
+        "url": "https://x.com/home"
+      },
+      {
+        "type": "link",
+        "title": "Gmail",
+        "icon": "https://logo.clearbit.com/mail.google.com",
+        "url": "https://mail.google.com/mail/u/0/#inbox"
       }
     ]
   }
