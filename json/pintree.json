@@ -42021,6 +42021,13 @@
                 "title": "主页 | FastSend",
                 "icon": "https://logo.clearbit.com/fastsend.ing",
                 "url": "https://fastsend.ing/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1731115327035,
+                "title": "互传网页版",
+                "icon": "https://logo.clearbit.com/as.vivo.com",
+                "url": "http://as.vivo.com/"
               }
             ]
           },
@@ -44559,6 +44566,13 @@
                 "title": "FongMi | Ok影視TV，正試版,32,64,位數，同步,更新,下載,詳情,內容,介紹！",
                 "icon": "https://logo.clearbit.com/down.fongmi.eu.org",
                 "url": "https://down.fongmi.eu.org/#download"
+              },
+              {
+                "type": "link",
+                "addDate": 1731113895659,
+                "title": "WebView 电视 - 一个开源的电视直播 APP",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/hxh19950701/WebViewTvLive/releases"
               }
             ]
           },
@@ -45572,6 +45586,13 @@
             "title": "下一本读什么",
             "icon": "https://logo.clearbit.com/xiayibendushenme.com",
             "url": "https://xiayibendushenme.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1730682231929,
+            "title": "Essay - 纯粹友好的文字社区",
+            "icon": "https://logo.clearbit.com/www.essay.ink",
+            "url": "https://www.essay.ink/"
           }
         ]
       },
@@ -45768,6 +45789,13 @@
         "addDate": 1727704175643,
         "title": "工作台",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1730940667135,
+            "title": "八神协同空间",
+            "icon": "https://logo.clearbit.com/jxbs888.gnway.cc",
+            "url": "http://jxbs888.gnway.cc:34493/seeyon/main.do?method=main"
+          },
           {
             "type": "link",
             "addDate": 1637648515000,
@@ -46551,6 +46579,20 @@
             "title": "GameViewer远程_专业游戏远程控制工具",
             "icon": "https://logo.clearbit.com/gv.163.com",
             "url": "https://gv.163.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731114028014,
+            "title": "超级影音下载工具 yt-dlp",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/yt-dlp/yt-dlp/releases"
+          },
+          {
+            "type": "link",
+            "addDate": 1731115174205,
+            "title": "VIVO互传",
+            "icon": "https://logo.clearbit.com/es.vivo.com.cn",
+            "url": "https://es.vivo.com.cn/view?type=download"
           }
         ]
       },
