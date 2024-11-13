@@ -44573,6 +44573,13 @@
                 "title": "WebView 电视 - 一个开源的电视直播 APP",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/hxh19950701/WebViewTvLive/releases"
+              },
+              {
+                "type": "link",
+                "addDate": 1731483310582,
+                "title": "Our-TV 安卓电视",
+                "icon": "https://logo.clearbit.com/yxzhi.lanzoue.com",
+                "url": "https://yxzhi.lanzoue.com/b009gcyfcf"
               }
             ]
           },
@@ -46593,6 +46600,13 @@
             "title": "VIVO互传",
             "icon": "https://logo.clearbit.com/es.vivo.com.cn",
             "url": "https://es.vivo.com.cn/view?type=download"
+          },
+          {
+            "type": "link",
+            "addDate": 1731483227980,
+            "title": "系统总裁",
+            "icon": "https://logo.clearbit.com/www.sysceo.com",
+            "url": "https://www.sysceo.com/"
           }
         ]
       },
