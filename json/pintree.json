@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1590975003131,
+    "addDate": 1731240426659,
     "title": "书签栏",
     "children": [
       {
@@ -40718,6 +40718,13 @@
                 "title": "CPU、SOC 和 GPU比较",
                 "icon": "https://logo.clearbit.com/siliconcat.net",
                 "url": "https://siliconcat.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1735658028310,
+                "title": "飞牛私有云 fnOS",
+                "icon": "https://logo.clearbit.com/www.fnnas.com",
+                "url": "https://www.fnnas.com/download"
               }
             ]
           },
@@ -40975,6 +40982,13 @@
                 "title": "果核音乐",
                 "icon": "https://logo.clearbit.com/ghyinyue.com",
                 "url": "https://ghyinyue.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737636364607,
+                "title": "音乐魔石官网-全网无损音乐mp3歌曲免费下载网站",
+                "icon": "https://logo.clearbit.com/yym4.com",
+                "url": "https://yym4.com/"
               }
             ]
           },
@@ -41238,13 +41252,6 @@
                     "title": "红白机游戏盒",
                     "icon": "https://logo.clearbit.com/nes.heheda.top",
                     "url": "https://nes.heheda.top/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1713238706000,
-                    "title": "Return8090官网,经典复古游戏机在线玩",
-                    "icon": "https://logo.clearbit.com/www.return8090.com",
-                    "url": "https://www.return8090.com/"
                   },
                   {
                     "type": "link",
@@ -42862,7 +42869,7 @@
       {
         "type": "folder",
         "addDate": 1729943743505,
-        "title": "大模型",
+        "title": "AI",
         "children": [
           {
             "type": "link",
@@ -42975,6 +42982,13 @@
             "title": "ARC-图像修复",
             "icon": "https://logo.clearbit.com/arc.tencent.com",
             "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration"
+          },
+          {
+            "type": "link",
+            "addDate": 1738395777701,
+            "title": "DeepSeek - 探索未至之境",
+            "icon": "https://logo.clearbit.com/chat.deepseek.com",
+            "url": "https://chat.deepseek.com/"
           }
         ]
       },
@@ -44316,6 +44330,13 @@
                 "title": "SeedHub | 影视&动漫分享",
                 "icon": "https://logo.clearbit.com/www.seedhub.cc",
                 "url": "https://www.seedhub.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736324387641,
+                "title": "观影 GYING",
+                "icon": "https://logo.clearbit.com/www.gying.org",
+                "url": "https://www.gying.org/"
               }
             ]
           },
@@ -45314,6 +45335,13 @@
             "title": "冰冰字幕组 ice字幕组 最新英剧下载 英剧字幕 英剧在线观看 /detail/695",
             "icon": "https://logo.clearbit.com/www.icezmz.com",
             "url": "https://www.icezmz.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736336980409,
+            "title": "极兔电视",
+            "icon": "https://logo.clearbit.com/www.jitutv.me",
+            "url": "https://www.jitutv.me/"
           }
         ]
       },
@@ -45611,13 +45639,6 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1622791866000,
-        "title": "IT之家",
-        "icon": "https://logo.clearbit.com/www.ithome.com",
-        "url": "https://www.ithome.com/"
-      },
-      {
         "type": "folder",
         "addDate": 1729943743518,
         "title": "搜索",
@@ -45722,11 +45743,59 @@
         ]
       },
       {
+        "type": "folder",
+        "addDate": 1737718310743,
+        "title": "国外",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1729439014000,
+            "title": "推特",
+            "icon": "https://logo.clearbit.com/x.com",
+            "url": "https://x.com/home"
+          },
+          {
+            "type": "link",
+            "title": "Gmail",
+            "icon": "https://logo.clearbit.com/mail.google.com",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "addDate": 1622791866000,
+        "title": "IT之家",
+        "icon": "https://logo.clearbit.com/www.ithome.com",
+        "url": "https://www.ithome.com/"
+      },
+      {
         "type": "link",
         "addDate": 1619174023000,
         "title": "哔哩哔哩",
         "icon": "https://logo.clearbit.com/t.bilibili.com",
         "url": "https://t.bilibili.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1736605851359,
+        "title": "我的直播间",
+        "icon": "https://logo.clearbit.com/live.bilibili.com",
+        "url": "https://live.bilibili.com/21696945"
+      },
+      {
+        "type": "link",
+        "addDate": 1733362128907,
+        "title": "自选股—东方财富网",
+        "icon": "https://logo.clearbit.com/quote.eastmoney.com",
+        "url": "https://quote.eastmoney.com/zixuan/?from=quotecenter"
+      },
+      {
+        "type": "link",
+        "addDate": 1735638124297,
+        "title": "ASUS - 飞牛私有云fnOS",
+        "icon": "https://logo.clearbit.com/192.168.31.99",
+        "url": "http://192.168.31.99:5666/"
       },
       {
         "type": "link",
@@ -46068,13 +46137,6 @@
             "title": "f.lux",
             "icon": "https://logo.clearbit.com/justgetflux.com",
             "url": "https://justgetflux.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1733213945898,
-            "title": "酷狗音乐",
-            "icon": "https://logo.clearbit.com/download.kugou.com",
-            "url": "https://download.kugou.com/"
           },
           {
             "type": "link",
@@ -46551,6 +46613,20 @@
             "title": "GameViewer远程_专业游戏远程控制工具",
             "icon": "https://logo.clearbit.com/gv.163.com",
             "url": "https://gv.163.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732540012431,
+            "title": "酷狗音乐",
+            "icon": "https://logo.clearbit.com/download.kugou.com",
+            "url": "https://download.kugou.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1736595700608,
+            "title": "OBS直播工具",
+            "icon": "https://logo.clearbit.com/obsproject.com",
+            "url": "https://obsproject.com/zh-cn/download"
           }
         ]
       },
@@ -47346,13 +47422,6 @@
             "title": "音频编辑器",
             "icon": "https://logo.clearbit.com/audio.heheda.top",
             "url": "https://audio.heheda.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731915842404,
-            "title": "Image Upscaler 图片放大",
-            "icon": "https://logo.clearbit.com/0v0.ai",
-            "url": "https://0v0.ai/upscaler/"
           }
         ]
       },
@@ -47738,19 +47807,6 @@
         "title": "【中国移动】8元畅享套餐",
         "icon": "https://logo.clearbit.com/touch.10086.cn",
         "url": "https://touch.10086.cn/goods/100_100_1086569_1076589.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1729439014000,
-        "title": "推特",
-        "icon": "https://logo.clearbit.com/x.com",
-        "url": "https://x.com/home"
-      },
-      {
-        "type": "link",
-        "title": "Gmail",
-        "icon": "https://logo.clearbit.com/mail.google.com",
-        "url": "https://mail.google.com/mail/u/0/#inbox"
       }
     ]
   }
