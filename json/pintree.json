@@ -40446,6 +40446,13 @@
                 "title": "Smail",
                 "icon": "https://logo.clearbit.com/smail.pw",
                 "url": "https://smail.pw/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744769924305,
+                "title": "复古风临时邮箱",
+                "icon": "https://logo.clearbit.com/tempmailpro.org",
+                "url": "https://tempmailpro.org/zh"
               }
             ]
           },
@@ -40514,6 +40521,13 @@
                     "title": "Windows、Office密钥分享",
                     "icon": "https://logo.clearbit.com/webact.185.hk",
                     "url": "https://webact.185.hk/sharedkey.php"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1744431624005,
+                    "title": "Windows/Office永久激活工具",
+                    "icon": "https://logo.clearbit.com/iui.su",
+                    "url": "https://iui.su/2562/"
                   }
                 ]
               },
@@ -41003,6 +41017,34 @@
                 "title": "网易云音乐无损解析 - VUE3",
                 "icon": "https://logo.clearbit.com/api.toubiec.cn",
                 "url": "https://api.toubiec.cn/wyapi.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1742302309401,
+                "title": "音乐榜 - 免费无损音乐MP3、FLAC、WAV在线播放下载网站",
+                "icon": "https://logo.clearbit.com/www.mp3b.com",
+                "url": "https://www.mp3b.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1746005129885,
+                "title": "SPlayer-在线音乐",
+                "icon": "https://logo.clearbit.com/player.focalors.ltd",
+                "url": "https://player.focalors.ltd/#/"
+              },
+              {
+                "type": "link",
+                "addDate": 1747965428680,
+                "title": "米兔音乐",
+                "icon": "https://logo.clearbit.com/www.qqmp3.vip",
+                "url": "https://www.qqmp3.vip/"
+              },
+              {
+                "type": "link",
+                "addDate": 1748065927680,
+                "title": "Музыка на любой вкус",
+                "icon": "https://logo.clearbit.com/zvu4no.org",
+                "url": "https://zvu4no.org/"
               }
             ]
           },
@@ -41157,6 +41199,13 @@
                 "title": "抖音下载器：无水印下载抖音 (中国版 TikTok) 视频",
                 "icon": "https://logo.clearbit.com/tiktokio.com",
                 "url": "https://tiktokio.com/zh/douyin-downloader/"
+              },
+              {
+                "type": "link",
+                "addDate": 1743841251862,
+                "title": "哔哩哔哩视频下载器",
+                "icon": "https://logo.clearbit.com/savebilibili.com",
+                "url": "https://savebilibili.com/zh-CN"
               }
             ]
           },
@@ -42891,6 +42940,41 @@
             "title": "CarOBook车主随身手册 - 汽车说明书 - 汽车保养手册 - 汽车手机壁纸",
             "icon": "https://logo.clearbit.com/www.carobook.com",
             "url": "https://www.carobook.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742716573988,
+            "title": "SaDuck - 免费公考知识库",
+            "icon": "https://logo.clearbit.com/saduck.top",
+            "url": "https://saduck.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742716957458,
+            "title": "字帖",
+            "icon": "https://logo.clearbit.com/canyaoai.com",
+            "url": "https://canyaoai.com/copybooks?from=iui.su"
+          },
+          {
+            "type": "link",
+            "addDate": 1744277089507,
+            "title": "ReelSync-同步看视频",
+            "icon": "https://logo.clearbit.com/reel-sync.kev1nweng.space",
+            "url": "https://reel-sync.kev1nweng.space/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744981927410,
+            "title": "物言卡片 - 为任意内容制作分享卡片",
+            "icon": "https://logo.clearbit.com/mono.cards",
+            "url": "https://mono.cards/zh?template=engineering"
+          },
+          {
+            "type": "link",
+            "addDate": 1745844203940,
+            "title": "电报模拟器-摩斯电码",
+            "icon": "https://logo.clearbit.com/www.telegraphsimulator.com",
+            "url": "https://www.telegraphsimulator.com/"
           }
         ]
       },
@@ -44837,13 +44921,6 @@
           },
           {
             "type": "link",
-            "addDate": 1699496770000,
-            "title": "咕咕番 - 在线日漫",
-            "icon": "https://logo.clearbit.com/www.gugufan.com",
-            "url": "https://www.gugufan.com/?ref=yinghe.app"
-          },
-          {
-            "type": "link",
             "addDate": 1699496854000,
             "title": "Nico",
             "icon": "https://logo.clearbit.com/nicohub.cc",
@@ -45333,13 +45410,6 @@
           },
           {
             "type": "link",
-            "addDate": 1728358226000,
-            "title": "呵呵动漫 - 免费日漫在线观看",
-            "icon": "https://logo.clearbit.com/www.hehe.la",
-            "url": "https://www.hehe.la/?ref=hehe&token=172835822235ffb4aa45e776285efa76e9cd18408f"
-          },
-          {
-            "type": "link",
             "addDate": 1729910666000,
             "title": "日剧网",
             "icon": "https://logo.clearbit.com/www.rijutv6.com",
@@ -45384,6 +45454,13 @@
             "title": "极兔电视",
             "icon": "https://logo.clearbit.com/www.jitutv.me",
             "url": "https://www.jitutv.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744982492030,
+            "title": "影视在线观看 - 硬核指南",
+            "icon": "https://logo.clearbit.com/yinghezhinan.com",
+            "url": "https://yinghezhinan.com/sites/zaixian/"
           }
         ]
       },
@@ -45412,6 +45489,13 @@
             "title": "摸摸鱼热榜",
             "icon": "https://logo.clearbit.com/momoyu.cc",
             "url": "https://momoyu.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745463419447,
+            "title": "NewsNow | 最热",
+            "icon": "https://logo.clearbit.com/newsnow.busiyi.world",
+            "url": "https://newsnow.busiyi.world/c/hottest"
           },
           {
             "type": "link",
@@ -45635,6 +45719,13 @@
             "title": "下一本读什么",
             "icon": "https://logo.clearbit.com/xiayibendushenme.com",
             "url": "https://xiayibendushenme.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742114617791,
+            "title": "全球经典儿童睡前故事库",
+            "icon": "https://logo.clearbit.com/beddystories.com",
+            "url": "https://beddystories.com/zh"
           }
         ]
       },
@@ -46107,6 +46198,13 @@
                 "title": "Xterminal - 更好用的开发工具，但不止于(SSH/控制台/More)",
                 "icon": "https://logo.clearbit.com/www.xterminal.cn",
                 "url": "https://www.xterminal.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1742301845275,
+                "title": "Trae - AI 原生 IDE",
+                "icon": "https://logo.clearbit.com/www.trae.com.cn",
+                "url": "https://www.trae.com.cn/"
               }
             ]
           },
@@ -46121,6 +46219,27 @@
                 "title": "Sunshine | LizardByte",
                 "icon": "https://logo.clearbit.com/app.lizardbyte.dev",
                 "url": "https://app.lizardbyte.dev/Sunshine/?lng=en#Download"
+              },
+              {
+                "type": "link",
+                "addDate": 1742307368720,
+                "title": "Moonlight Game Streaming: Play Your PC Games Remotely",
+                "icon": "https://logo.clearbit.com/moonlight-stream.org",
+                "url": "https://moonlight-stream.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1742308333441,
+                "title": "皎月连一键内网穿透",
+                "icon": "https://logo.clearbit.com/natpierce.cn",
+                "url": "https://natpierce.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1742346912800,
+                "title": "ViGEmBus",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/nefarius/ViGEmBus/releases"
               }
             ]
           },
@@ -46133,10 +46252,10 @@
           },
           {
             "type": "link",
-            "addDate": 1689213175000,
-            "title": "QQ",
+            "addDate": 1744200095988,
+            "title": "QQ-轻松做自己",
             "icon": "https://logo.clearbit.com/im.qq.com",
-            "url": "https://im.qq.com/index/#downloadAnchor"
+            "url": "https://im.qq.com/index/"
           },
           {
             "type": "link",
@@ -46697,13 +46816,6 @@
             "title": "foobar2000 v2.24.1 汉化版",
             "icon": "https://logo.clearbit.com/www.cnblogs.com",
             "url": "https://www.cnblogs.com/asionwu/p/18655158"
-          },
-          {
-            "type": "link",
-            "addDate": 1741252467957,
-            "title": "WO Mic - FREE microphone",
-            "icon": "https://logo.clearbit.com/wolicheng.com",
-            "url": "https://wolicheng.com/womic/"
           }
         ]
       },
@@ -46948,6 +47060,13 @@
             "title": "网页嗅探器",
             "icon": "https://logo.clearbit.com/aixdownloader.com",
             "url": "https://aixdownloader.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742354235695,
+            "title": "DeepSider侧边栏AI智能助手",
+            "icon": "https://logo.clearbit.com/www.deepsider.ai",
+            "url": "https://www.deepsider.ai/"
           }
         ]
       },
@@ -47247,6 +47366,13 @@
             "title": "cascadia-code",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/microsoft/cascadia-code"
+          },
+          {
+            "type": "link",
+            "addDate": 1742303191208,
+            "title": "JetBrainsMapleMono",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono?tab=readme-ov-file"
           }
         ]
       },
@@ -47506,6 +47632,13 @@
             "title": "音频编辑器",
             "icon": "https://logo.clearbit.com/audio.heheda.top",
             "url": "https://audio.heheda.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742301997126,
+            "title": "RevizePic - 免费专业的在线图像画质增强工具 | 16种强大功能",
+            "icon": "https://logo.clearbit.com/revizepic.toolooz.com",
+            "url": "https://revizepic.toolooz.com/"
           }
         ]
       },
@@ -47919,6 +48052,13 @@
         "title": "QQ邮箱 - 收件箱",
         "icon": "https://logo.clearbit.com/mail.qq.com",
         "url": "https://mail.qq.com/cgi-bin/frame_html?sid=fxLMbTarfPcmLkMk&r=9f83292c22477cbd335480f761d1f6ea"
+      },
+      {
+        "type": "link",
+        "addDate": 1744687286289,
+        "title": "Get Aliyundrive Refresh Token | AList文档",
+        "icon": "https://logo.clearbit.com/alist.nn.ci",
+        "url": "https://alist.nn.ci/zh/tool/aliyundrive/request.html"
       }
     ]
   }
