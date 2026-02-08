@@ -19956,12 +19956,6 @@
                   },
                   {
                     "type": "link",
-                    "title": "Youtube",
-                    "icon": "https://logo.clearbit.com/www.youtube.com",
-                    "url": "https://www.youtube.com/"
-                  },
-                  {
-                    "type": "link",
                     "title": "腾讯视频",
                     "icon": "https://logo.clearbit.com/v.qq.com",
                     "url": "https://v.qq.com/"
@@ -40860,10 +40854,17 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1682500370000,
-                "title": "音乐下载",
-                "icon": "https://logo.clearbit.com/tool.liumingye.cn",
-                "url": "https://tool.liumingye.cn/music/#/"
+                "addDate": 1768568701876,
+                "title": "1Music.cc – 免费高品质音乐下载，支持FLAC/MP3，WebDAV上传",
+                "icon": "https://logo.clearbit.com/1music.cc",
+                "url": "https://1music.cc/zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1757149476593,
+                "title": "无损音乐下载",
+                "icon": "https://logo.clearbit.com/flac.music.hi.cn",
+                "url": "https://flac.music.hi.cn/"
               },
               {
                 "type": "link",
@@ -40902,20 +40903,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1694592873000,
-                "title": "下歌吧",
-                "icon": "https://logo.clearbit.com/xiageba.com",
-                "url": "https://xiageba.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1697159112000,
-                "title": "无损音乐下载下载密码：3896",
-                "icon": "https://logo.clearbit.com/www.86109.com",
-                "url": "http://www.86109.com/"
-              },
-              {
-                "type": "link",
                 "addDate": 1700186679000,
                 "title": "云音乐格式转换-NCM格式在线转换为MP3格式",
                 "icon": "https://logo.clearbit.com/ncm.worthsee.com",
@@ -40948,13 +40935,6 @@
                 "title": "人声分离",
                 "icon": "https://logo.clearbit.com/vocalremover.org",
                 "url": "https://vocalremover.org/zh/"
-              },
-              {
-                "type": "link",
-                "addDate": 1701838709000,
-                "title": "熊猫无损音乐免费下载",
-                "icon": "https://logo.clearbit.com/www.xmwav.com",
-                "url": "https://www.xmwav.com/"
               },
               {
                 "type": "link",
@@ -41070,17 +41050,17 @@
               },
               {
                 "type": "link",
-                "addDate": 1757149476593,
-                "title": "无损音乐下载",
-                "icon": "https://logo.clearbit.com/flac.music.hi.cn",
-                "url": "https://flac.music.hi.cn/"
-              },
-              {
-                "type": "link",
                 "addDate": 1758378141531,
                 "title": "lucida | music at internet speed",
                 "icon": "https://logo.clearbit.com/lucida.to",
                 "url": "https://lucida.to/"
+              },
+              {
+                "type": "link",
+                "addDate": 1765109126270,
+                "title": "地址发布页 - 泡椒音乐",
+                "icon": "https://logo.clearbit.com/pjmp3.de",
+                "url": "https://pjmp3.de/"
               }
             ]
           },
@@ -41269,6 +41249,13 @@
                 "title": "抖音去水印视频下载 - 免费在线无水印高清下载工具",
                 "icon": "https://logo.clearbit.com/www.xhs-download.org",
                 "url": "https://www.xhs-download.org/zh/douyin-video-download"
+              },
+              {
+                "type": "link",
+                "addDate": 1769939711339,
+                "title": "免费一键视频下载工具_视频无水印解析下载器(b站、抖音)平台去水印下载 - i导航解析器",
+                "icon": "https://logo.clearbit.com/www.idaohang123.com",
+                "url": "https://www.idaohang123.com/"
               }
             ]
           },
@@ -43073,6 +43060,13 @@
             "title": "邮箱服务器配置查询",
             "icon": "https://logo.clearbit.com/www.email4.fun",
             "url": "https://www.email4.fun/"
+          },
+          {
+            "type": "link",
+            "addDate": 1769939942864,
+            "title": "IPTV神器Pro - 每日更新最新酒店源、组播源IP、节目列表",
+            "icon": "https://logo.clearbit.com/iptv.cqshushu.com",
+            "url": "https://iptv.cqshushu.com/index.php"
           }
         ]
       },
@@ -43087,6 +43081,13 @@
             "title": "DeepSeek - 探索未至之境",
             "icon": "https://logo.clearbit.com/chat.deepseek.com",
             "url": "https://chat.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1699345415000,
+            "title": "千问",
+            "icon": "https://logo.clearbit.com/www.qianwen.com",
+            "url": "https://www.qianwen.com/"
           },
           {
             "type": "link",
@@ -43174,13 +43175,6 @@
           },
           {
             "type": "link",
-            "addDate": 1699345415000,
-            "title": "通义千问",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen"
-          },
-          {
-            "type": "link",
             "addDate": 1696660181000,
             "title": "天工",
             "icon": "https://logo.clearbit.com/www.tiangong.cn",
@@ -43199,13 +43193,6 @@
             "title": "知乎直答",
             "icon": "https://logo.clearbit.com/zhida.zhihu.com",
             "url": "https://zhida.zhihu.com/?next=https%3A%2F%2Fzhida.zhihu.com"
-          },
-          {
-            "type": "link",
-            "addDate": 1741328950859,
-            "title": "Manus",
-            "icon": "https://logo.clearbit.com/manus.im",
-            "url": "https://manus.im/"
           },
           {
             "type": "link",
@@ -44454,8 +44441,8 @@
                 "type": "link",
                 "addDate": 1681529744000,
                 "title": "6v电影",
-                "icon": "https://logo.clearbit.com/www.hao6v.tv",
-                "url": "https://www.hao6v.tv/"
+                "icon": "https://logo.clearbit.com/www.6v520.net",
+                "url": "https://www.6v520.net/"
               },
               {
                 "type": "link",
@@ -44495,7 +44482,7 @@
               {
                 "type": "link",
                 "addDate": 1709543653000,
-                "title": "发布页",
+                "title": "6v电影地址发布页",
                 "icon": "https://logo.clearbit.com/www.6v123.com",
                 "url": "https://www.6v123.com/"
               },
@@ -44802,24 +44789,10 @@
           },
           {
             "type": "link",
-            "addDate": 1750250840007,
-            "title": "LibreTV",
-            "icon": "https://logo.clearbit.com/192.168.31.99",
-            "url": "http://192.168.31.99:8899/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673920568000,
-            "title": "低端影视 网址发布页",
-            "icon": "https://logo.clearbit.com/ddys.site",
-            "url": "https://ddys.site/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673920590000,
-            "title": "低端影视 - 超清在线视频站",
-            "icon": "https://logo.clearbit.com/ddys.pro",
-            "url": "https://ddys.pro/"
+            "addDate": 1770543797051,
+            "title": "嘀嗒影视 - 高分电影聚集地，超清秒播体验！",
+            "icon": "https://logo.clearbit.com/www.didahd.pro",
+            "url": "https://www.didahd.pro/"
           },
           {
             "type": "link",
@@ -44837,20 +44810,6 @@
           },
           {
             "type": "link",
-            "addDate": 1701088896000,
-            "title": "BTNULL 无名小站",
-            "icon": "https://logo.clearbit.com/www.btnull.nu",
-            "url": "https://www.btnull.nu/"
-          },
-          {
-            "type": "link",
-            "addDate": 1687682502000,
-            "title": "在线之家 地址发布页，收藏我回家不迷路！",
-            "icon": "https://logo.clearbit.com/www.zxzj.site",
-            "url": "https://www.zxzj.site/"
-          },
-          {
-            "type": "link",
             "addDate": 1699496407000,
             "title": "厂长资源官网",
             "icon": "https://logo.clearbit.com/www.cz01.vip",
@@ -44865,24 +44824,10 @@
           },
           {
             "type": "link",
-            "addDate": 1691992847000,
-            "title": "NO视频 – 不负追剧好时光",
-            "icon": "https://logo.clearbit.com/www.novipnoad.net",
-            "url": "https://www.novipnoad.net/"
-          },
-          {
-            "type": "link",
             "addDate": 1691992918000,
             "title": "热播之家 - 高清影视在线",
             "icon": "https://logo.clearbit.com/rebozj.pro",
             "url": "https://rebozj.pro/"
-          },
-          {
-            "type": "link",
-            "addDate": 1691992974000,
-            "title": "FreeOK - 追剧也很卷",
-            "icon": "https://logo.clearbit.com/www.freeok.vip",
-            "url": "https://www.freeok.vip/"
           },
           {
             "type": "link",
@@ -44900,185 +44845,10 @@
           },
           {
             "type": "link",
-            "addDate": 1673920627000,
-            "title": "大米星球",
-            "icon": "https://logo.clearbit.com/www.dmxq.fun",
-            "url": "https://www.dmxq.fun/"
-          },
-          {
-            "type": "link",
-            "addDate": 1673921347000,
-            "title": "大米星球官网永久发布页",
-            "icon": "https://logo.clearbit.com/www.dmdy.vip",
-            "url": "https://www.dmdy.vip/"
-          },
-          {
-            "type": "link",
-            "addDate": 1692339829000,
-            "title": "达达龟备用",
-            "icon": "https://logo.clearbit.com/www.ddgys.com",
-            "url": "https://www.ddgys.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1660729161000,
-            "title": "在线影视视频网站合集 | 合集网",
-            "icon": "https://logo.clearbit.com/233heji.com",
-            "url": "https://233heji.com/8.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1679640624000,
-            "title": "打驴动漫",
-            "icon": "https://logo.clearbit.com/www.dqsj.top",
-            "url": "https://www.dqsj.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1681529982000,
-            "title": "大师兄影视",
-            "icon": "https://logo.clearbit.com/www.dqfk120.com",
-            "url": "https://www.dqfk120.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1682502019000,
-            "title": "高清mp4,mp4pa,mp4吧,高清mp4,MP4下载,最新电影,电影MP4,限制级大片",
-            "icon": "https://logo.clearbit.com/m.mp4pa.com",
-            "url": "https://m.mp4pa.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1692581325000,
-            "title": "硬核影视指南",
-            "icon": "https://logo.clearbit.com/yingheapp.com",
-            "url": "https://yingheapp.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1699496511000,
-            "title": "注视影视",
-            "icon": "https://logo.clearbit.com/gaze.run",
-            "url": "https://gaze.run/?ref=yinghe.app"
-          },
-          {
-            "type": "link",
-            "addDate": 1699496549000,
-            "title": "高光影视 - 超清在线电影与剧集",
-            "icon": "https://logo.clearbit.com/ggys.me",
-            "url": "https://ggys.me/?ref=yinghe.app"
-          },
-          {
-            "type": "link",
-            "addDate": 1699496854000,
-            "title": "Nico",
-            "icon": "https://logo.clearbit.com/nicohub.cc",
-            "url": "https://nicohub.cc/index?ref=yinghe.app"
-          },
-          {
-            "type": "link",
-            "addDate": 1699498405000,
-            "title": "土拨鼠电影",
-            "icon": "https://logo.clearbit.com/tbsdy.com",
-            "url": "https://tbsdy.com/?ref=yinghe.app"
-          },
-          {
-            "type": "link",
-            "addDate": 1683515618000,
-            "title": "555电影地址发布页",
-            "icon": "https://logo.clearbit.com/www.555kan.net",
-            "url": "https://www.555kan.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1692340520000,
-            "title": "555电影",
-            "icon": "https://logo.clearbit.com/555dy5s.com",
-            "url": "https://555dy5s.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1692352752000,
-            "title": "干饭影视",
-            "icon": "https://logo.clearbit.com/gfysys.cc",
-            "url": "https://gfysys.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1692352761000,
-            "title": "干饭影视地址发布页",
-            "icon": "https://logo.clearbit.com/gfys.top",
-            "url": "https://gfys.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1683711999000,
-            "title": "麻花影视",
-            "icon": "https://logo.clearbit.com/www.imahuatv.com",
-            "url": "https://www.imahuatv.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1687920740000,
-            "title": "ZY Player 资源播放器",
-            "icon": "https://logo.clearbit.com/zyplayer.fun",
-            "url": "http://zyplayer.fun/"
-          },
-          {
-            "type": "link",
-            "addDate": 1699862386000,
-            "title": "番茄影视",
-            "icon": "https://logo.clearbit.com/fqys1.com",
-            "url": "https://fqys1.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1699862403000,
-            "title": "追影猫",
-            "icon": "https://logo.clearbit.com/zhuiyingmao2.com",
-            "url": "https://zhuiyingmao2.com/?ref=iiice.cn"
-          },
-          {
-            "type": "link",
-            "addDate": 1699862424000,
-            "title": "新视觉影视",
-            "icon": "https://logo.clearbit.com/www.xsj18.com",
-            "url": "https://www.xsj18.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1700470104000,
             "title": "可可影视",
             "icon": "https://logo.clearbit.com/www.keke3.app",
             "url": "https://www.keke3.app/"
-          },
-          {
-            "type": "link",
-            "addDate": 1685501672000,
-            "title": "听德纲网",
-            "icon": "https://logo.clearbit.com/www.tingdegang.com",
-            "url": "http://www.tingdegang.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1677724832000,
-            "title": "相声随身听",
-            "icon": "https://logo.clearbit.com/www.xsmp3.com",
-            "url": "https://www.xsmp3.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1704158981000,
-            "title": "黑白老电影",
-            "icon": "https://logo.clearbit.com/vole.wtf",
-            "url": "https://vole.wtf/voleflix/"
-          },
-          {
-            "type": "link",
-            "addDate": 1704678169000,
-            "title": "热门电影m3u8链接分享",
-            "icon": "https://logo.clearbit.com/okdvd.cc",
-            "url": "https://okdvd.cc/"
           },
           {
             "type": "link",
@@ -45096,13 +44866,6 @@
           },
           {
             "type": "link",
-            "addDate": 1711330964000,
-            "title": "韩剧看看 - 韩剧在线看",
-            "icon": "https://logo.clearbit.com/www.hanjukankan.com",
-            "url": "https://www.hanjukankan.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1711331038000,
             "title": "HDmoli - 高品质在线影视资源",
             "icon": "https://logo.clearbit.com/www.hdmoli.pro",
@@ -45114,13 +44877,6 @@
             "title": "网址发布页",
             "icon": "https://logo.clearbit.com/molicp.com",
             "url": "https://molicp.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711351488000,
-            "title": "妞妞影视网",
-            "icon": "https://logo.clearbit.com/nunjiu.com",
-            "url": "https://nunjiu.com/"
           },
           {
             "type": "link",
@@ -45138,205 +44894,10 @@
           },
           {
             "type": "link",
-            "addDate": 1711937753000,
-            "title": "奈飞中文影视 - 奈飞中文网",
-            "icon": "https://logo.clearbit.com/www.netfly.tv",
-            "url": "https://www.netfly.tv/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711937773000,
-            "title": "奈落影视-全网最新最全的影视1080P高清免费剧集在线观看(www.newfii.com) - nailuotvys.com - nailuoys.com",
-            "icon": "https://logo.clearbit.com/www.newfii.com",
-            "url": "https://www.newfii.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711937890000,
-            "title": "传奇影院",
-            "icon": "https://logo.clearbit.com/www.chuanqi365.com",
-            "url": "https://www.chuanqi365.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711937928000,
-            "title": "APP影院-全网最全视频库",
-            "icon": "https://logo.clearbit.com/www.appmovie.cc",
-            "url": "https://www.appmovie.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711937974000,
-            "title": "4k影视",
-            "icon": "https://logo.clearbit.com/www.4kvm.org",
-            "url": "https://www.4kvm.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711937989000,
-            "title": "毛驴影视",
-            "icon": "https://logo.clearbit.com/www.maolvys.com",
-            "url": "https://www.maolvys.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938062000,
-            "title": "全集网_全集追剧大全_一家专注最新剧集电影的网站",
-            "icon": "https://logo.clearbit.com/www.yijia5.com",
-            "url": "https://www.yijia5.com/"
-          },
-          {
-            "type": "link",
-            "title": "爱迪影视",
-            "icon": "https://logo.clearbit.com/adys.tv",
-            "url": "https://adys.tv/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938134000,
-            "title": "人人影视",
-            "icon": "https://logo.clearbit.com/www.renren.pro",
-            "url": "https://www.renren.pro/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938410000,
-            "title": "素白白影视,2024最新电影,最新电视剧,免费电影,电视剧大全,香港经典电影影视大全",
-            "icon": "https://logo.clearbit.com/www.subaibaiys.com",
-            "url": "https://www.subaibaiys.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938413000,
-            "title": "素白白影视永久地址发布页，收藏我回家不迷路！",
-            "icon": "https://logo.clearbit.com/subaibai.vip",
-            "url": "https://subaibai.vip/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938453000,
-            "title": "电影先生",
-            "icon": "https://logo.clearbit.com/dianyi.ng",
-            "url": "https://dianyi.ng/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711938477000,
-            "title": "JOJO",
-            "icon": "https://logo.clearbit.com/jiohub.top",
-            "url": "https://jiohub.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711943281000,
-            "title": "熊猫影院-免费海外华人影院",
-            "icon": "https://logo.clearbit.com/xmvod520.com",
-            "url": "https://xmvod520.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711943291000,
-            "title": "胖虎免费svip影视-全网免费影视大全",
-            "icon": "https://logo.clearbit.com/www.physkan.com",
-            "url": "https://www.physkan.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711943306000,
-            "title": "看B站-海外线上看",
-            "icon": "https://logo.clearbit.com/kanb.tv",
-            "url": "https://kanb.tv/"
-          },
-          {
-            "type": "link",
-            "addDate": 1711943323000,
-            "title": "悠云影视-年度最新高清蓝光热播电影、电视剧免费在线观看",
-            "icon": "https://logo.clearbit.com/yoyys1.com",
-            "url": "https://yoyys1.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712458108000,
-            "title": "玩偶哥哥-阿里云盘资源分享",
-            "icon": "https://logo.clearbit.com/www.wogg.xyz",
-            "url": "https://www.wogg.xyz/"
-          },
-          {
-            "type": "link",
-            "addDate": 1712458185000,
-            "title": "萌番动漫-(゜-゜)つロ ~BILFUN",
-            "icon": "https://logo.clearbit.com/www.bilfun.com",
-            "url": "https://www.bilfun.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713236308000,
-            "title": "牛牛影视",
-            "icon": "https://logo.clearbit.com/www.niutv.top",
-            "url": "https://www.niutv.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713238480000,
-            "title": "皮皮虾资源 - 愿所有电影都能与你不期而遇",
-            "icon": "https://logo.clearbit.com/ppxzy.ink",
-            "url": "https://ppxzy.ink/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713238488000,
-            "title": "地址发布页 - 皮皮虾资源",
-            "icon": "https://logo.clearbit.com/ppxzy.me",
-            "url": "https://ppxzy.me/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713403720000,
-            "title": "2077影视 - 高清影视免费在线看",
-            "icon": "https://logo.clearbit.com/www.m2077.com",
-            "url": "https://www.m2077.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1713428938000,
-            "title": "TVB云播：全网最好的蓝光港剧网站",
-            "icon": "https://logo.clearbit.com/www.hktv06.com",
-            "url": "http://www.hktv06.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1714012320000,
-            "title": "LIBHD官网-动漫海外剧集电影高清下载",
-            "icon": "https://logo.clearbit.com/www.libhd.com",
-            "url": "https://www.libhd.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715933139000,
-            "title": "不可思议",
-            "icon": "https://logo.clearbit.com/bukesiyi.app",
-            "url": "https://bukesiyi.app/"
-          },
-          {
-            "type": "link",
             "addDate": 1716270527000,
             "title": "好看的动漫_海贼王_日本动漫_动画片大全 _ 搜漫网",
             "icon": "https://logo.clearbit.com/www.socomic.com",
             "url": "https://www.socomic.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716448102000,
-            "title": "宝片视频-在线全球视频流媒体播放",
-            "icon": "https://logo.clearbit.com/ibaopian.com",
-            "url": "https://ibaopian.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716859209000,
-            "title": "Home - FMovies | Watch Movies Online Free on FMovies.to",
-            "icon": "https://logo.clearbit.com/fmoviesz.to",
-            "url": "https://fmoviesz.to/home"
           },
           {
             "type": "link",
@@ -45347,96 +44908,6 @@
           },
           {
             "type": "link",
-            "addDate": 1718800099000,
-            "title": "缘觉影视（简称YJYS）",
-            "icon": "https://logo.clearbit.com/www.yjys01.com",
-            "url": "https://www.yjys01.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719191155000,
-            "title": "路漫漫在线动漫-在线动画,日本动漫,国产动漫,动漫免费在线",
-            "icon": "https://logo.clearbit.com/m.lmm52.com",
-            "url": "https://m.lmm52.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719191637000,
-            "title": "新视觉影视",
-            "icon": "https://logo.clearbit.com/www.niubiys.com",
-            "url": "https://www.niubiys.com/index.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1722062688000,
-            "title": "可爱TV - 影视在线搜索库",
-            "icon": "https://logo.clearbit.com/keai.cm",
-            "url": "https://keai.cm/"
-          },
-          {
-            "type": "link",
-            "addDate": 1722063120000,
-            "title": "剧圈圈在线-最新电影热剧免费在线观看!",
-            "icon": "https://logo.clearbit.com/www.jqqzx.cc",
-            "url": "https://www.jqqzx.cc/"
-          },
-          {
-            "type": "link",
-            "addDate": 1722913943000,
-            "title": "黑猫影视-海外华人在线影院│电影在线│免费无广告",
-            "icon": "https://logo.clearbit.com/heimaotv.vip",
-            "url": "https://heimaotv.vip/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725587233000,
-            "title": "金牌影院",
-            "icon": "https://logo.clearbit.com/fjvtw.com",
-            "url": "https://fjvtw.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1725936999000,
-            "title": "人人影视分享美剧字幕 - 提供最新影视剧介绍和影评，发布最新的字幕包括美剧,日剧,电影,动漫等，发布最新电影排行榜、本周电影口碑榜和高分电影TOP50",
-            "icon": "https://logo.clearbit.com/yyets.com",
-            "url": "https://yyets.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1726019661000,
-            "title": "Kimivod | 電視劇 電影 動漫 綜藝 線上看",
-            "icon": "https://logo.clearbit.com/kimivod.com",
-            "url": "https://kimivod.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1726710951000,
-            "title": "影视 - 骚等一下，马上有了",
-            "icon": "https://logo.clearbit.com/www.saodeng.com",
-            "url": "https://www.saodeng.com/yingshi/"
-          },
-          {
-            "type": "link",
-            "addDate": 1727423127000,
-            "title": "风车动漫地址永久发布页",
-            "icon": "https://logo.clearbit.com/dmla.fans",
-            "url": "https://dmla.fans/"
-          },
-          {
-            "type": "link",
-            "addDate": 1729910666000,
-            "title": "日剧网",
-            "icon": "https://logo.clearbit.com/www.rijutv6.com",
-            "url": "https://www.rijutv6.com/"
-          },
-          {
-            "type": "link",
-            "title": "东京不够热",
-            "icon": "https://logo.clearbit.com/www.tnhzmz.com",
-            "url": "https://www.tnhzmz.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1729910739000,
             "title": "首页 - 日剧跑",
             "icon": "https://logo.clearbit.com/www.rijupao.com",
@@ -45444,44 +44915,10 @@
           },
           {
             "type": "link",
-            "title": "美剧行星",
-            "icon": "https://logo.clearbit.com/www.nfyingshi.com",
-            "url": "https://www.nfyingshi.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1729910797000,
-            "title": "看美剧",
-            "icon": "https://logo.clearbit.com/kanmeiju.net",
-            "url": "https://kanmeiju.net/"
-          },
-          {
-            "type": "link",
-            "addDate": 1729910836000,
-            "title": "冰冰字幕组 ice字幕组 最新英剧下载 英剧字幕 英剧在线观看 /detail/695",
-            "icon": "https://logo.clearbit.com/www.icezmz.com",
-            "url": "https://www.icezmz.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1736336980409,
-            "title": "极兔电视",
-            "icon": "https://logo.clearbit.com/www.jitutv.me",
-            "url": "https://www.jitutv.me/"
-          },
-          {
-            "type": "link",
             "addDate": 1744982492030,
             "title": "影视在线观看 - 硬核指南",
             "icon": "https://logo.clearbit.com/yinghezhinan.com",
             "url": "https://yinghezhinan.com/sites/zaixian/"
-          },
-          {
-            "type": "link",
-            "addDate": 1749203204673,
-            "title": "影视搜索",
-            "icon": "https://logo.clearbit.com/u1.cx",
-            "url": "https://u1.cx/v/"
           }
         ]
       },
@@ -45806,13 +45243,6 @@
           },
           {
             "type": "link",
-            "addDate": 1698906236000,
-            "title": "Google",
-            "icon": "https://logo.clearbit.com/www.google.com",
-            "url": "https://www.google.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1698905370000,
             "title": "搜狗搜索",
             "icon": "https://logo.clearbit.com/www.sogou.com",
@@ -45903,6 +45333,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1698906236000,
+            "title": "Google",
+            "icon": "https://logo.clearbit.com/www.google.com",
+            "url": "https://www.google.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1729439014000,
             "title": "推特",
             "icon": "https://logo.clearbit.com/x.com",
@@ -45913,6 +45350,12 @@
             "title": "Gmail",
             "icon": "https://logo.clearbit.com/mail.google.com",
             "url": "https://mail.google.com/mail/u/0/#inbox"
+          },
+          {
+            "type": "link",
+            "title": "Youtube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/"
           }
         ]
       },
@@ -45927,8 +45370,8 @@
         "type": "link",
         "addDate": 1619174023000,
         "title": "哔哩哔哩",
-        "icon": "https://logo.clearbit.com/t.bilibili.com",
-        "url": "https://t.bilibili.com/"
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/"
       },
       {
         "type": "link",
@@ -45950,13 +45393,6 @@
         "title": "自选股—东方财富网",
         "icon": "https://logo.clearbit.com/quote.eastmoney.com",
         "url": "https://quote.eastmoney.com/zixuan/?from=quotecenter"
-      },
-      {
-        "type": "link",
-        "addDate": 1730459027298,
-        "title": "Pintree",
-        "icon": "https://logo.clearbit.com/netguidehub.us.kg",
-        "url": "https://netguidehub.us.kg/"
       },
       {
         "type": "link",
@@ -46851,6 +46287,20 @@
             "title": "balenaEtcher-镜像烧录工具",
             "icon": "https://logo.clearbit.com/etcher.balena.io",
             "url": "https://etcher.balena.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1769937199352,
+            "title": "健康提醒助手",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/kaima2022/Health-reminder/releases/tag/v1.6.0"
+          },
+          {
+            "type": "link",
+            "addDate": 1770446049996,
+            "title": "知乎plus",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/zly2006/zhihu-plus-plus/releases/tag/0.15.10"
           }
         ]
       },
@@ -48115,6 +47565,13 @@
         "title": "GKD规则",
         "icon": "https://logo.clearbit.com/github.com",
         "url": "https://github.com/AIsouler/GKD_subscription"
+      },
+      {
+        "type": "link",
+        "addDate": 1768315975837,
+        "title": "小米云服务",
+        "icon": "https://logo.clearbit.com/i.mi.com",
+        "url": "https://i.mi.com/"
       }
     ]
   }
