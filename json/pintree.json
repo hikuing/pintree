@@ -41061,6 +41061,13 @@
                 "title": "地址发布页 - 泡椒音乐",
                 "icon": "https://logo.clearbit.com/pjmp3.de",
                 "url": "https://pjmp3.de/"
+              },
+              {
+                "type": "link",
+                "addDate": 1773052434016,
+                "title": "Solara",
+                "icon": "https://logo.clearbit.com/yy.bttts.com",
+                "url": "https://yy.bttts.com/"
               }
             ]
           },
@@ -41256,6 +41263,13 @@
                 "title": "免费一键视频下载工具_视频无水印解析下载器(b站、抖音)平台去水印下载 - i导航解析器",
                 "icon": "https://logo.clearbit.com/www.idaohang123.com",
                 "url": "https://www.idaohang123.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1770729933601,
+                "title": "DownloadHD.net | 一键解析下载视频/图片/音频",
+                "icon": "https://logo.clearbit.com/downloadhd.net",
+                "url": "https://downloadhd.net/"
               }
             ]
           },
@@ -43067,6 +43081,62 @@
             "title": "IPTV神器Pro - 每日更新最新酒店源、组播源IP、节目列表",
             "icon": "https://logo.clearbit.com/iptv.cqshushu.com",
             "url": "https://iptv.cqshushu.com/index.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1771824023623,
+            "title": "显示工具集",
+            "icon": "https://logo.clearbit.com/led.run",
+            "url": "https://led.run/"
+          },
+          {
+            "type": "link",
+            "addDate": 1773047876196,
+            "title": "极简封面生成器 ",
+            "icon": "https://logo.clearbit.com/cover.lazyso.com",
+            "url": "https://cover.lazyso.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1774792551631,
+            "title": "烟雨OTA工具箱 — 跨平台 Android 工具箱",
+            "icon": "https://logo.clearbit.com/www.rainyweb.cn",
+            "url": "https://www.rainyweb.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1774859538296,
+            "title": "一起听歌吧",
+            "icon": "https://logo.clearbit.com/happy.alang.run",
+            "url": "https://happy.alang.run/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1774859653658,
+            "title": "诗一 - 古诗词大全 | ShiOne - Classical Chinese Poetry",
+            "icon": "https://logo.clearbit.com/shione.app",
+            "url": "https://shione.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1775041439671,
+            "title": "相见观影|异地同步观影|异地一起追剧",
+            "icon": "https://logo.clearbit.com/movie.zfai.shop",
+            "url": "https://movie.zfai.shop/"
+          },
+          {
+            "type": "link",
+            "addDate": 1775916134121,
+            "title": "圆桌起名 - AI 智能起名与多老师在线起名服务",
+            "icon": "https://logo.clearbit.com/yzqiming.com",
+            "url": "https://yzqiming.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1776087428134,
+            "title": "分享笔记 · ShareNote",
+            "icon": "https://logo.clearbit.com/sharenote.lvwzhen.com",
+            "url": "https://sharenote.lvwzhen.com/"
           }
         ]
       },
@@ -43091,45 +43161,10 @@
           },
           {
             "type": "link",
-            "addDate": 1739537730798,
-            "title": "小艺",
-            "icon": "https://logo.clearbit.com/xiaoyi.huawei.com",
-            "url": "https://xiaoyi.huawei.com/chat/4eae07efebf945eabab5d519b546eaed"
-          },
-          {
-            "type": "link",
             "addDate": 1698121730000,
             "title": "腾讯元宝",
             "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
             "url": "https://yuanbao.tencent.com/chat"
-          },
-          {
-            "type": "link",
-            "addDate": 1739867235530,
-            "title": "问小白",
-            "icon": "https://logo.clearbit.com/www.wenxiaobai.com",
-            "url": "https://www.wenxiaobai.com/chat/tourist"
-          },
-          {
-            "type": "link",
-            "addDate": 1740378831387,
-            "title": "当贝AI",
-            "icon": "https://logo.clearbit.com/ai.dangbei.com",
-            "url": "https://ai.dangbei.com/chat"
-          },
-          {
-            "type": "link",
-            "addDate": 1739265497725,
-            "title": "秘塔AI搜索",
-            "icon": "https://logo.clearbit.com/metaso.cn",
-            "url": "https://metaso.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1700889064000,
-            "title": "智谱清言",
-            "icon": "https://logo.clearbit.com/chatglm.cn",
-            "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
           },
           {
             "type": "link",
@@ -43154,52 +43189,38 @@
           },
           {
             "type": "link",
-            "addDate": 1706495417000,
-            "title": "周报通",
-            "icon": "https://logo.clearbit.com/zhoubaotong.cn",
-            "url": "https://zhoubaotong.cn/zh"
+            "addDate": 1772968783308,
+            "title": "大模型服务平台百炼控制台",
+            "icon": "https://logo.clearbit.com/bailian.console.aliyun.com",
+            "url": "https://bailian.console.aliyun.com/cn-beijing/?tab=model#/model-usage/free-quota?modelType=Text"
           },
           {
             "type": "link",
-            "addDate": 1682235225000,
-            "title": "文心一言",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
+            "addDate": 1773211729824,
+            "title": "Qwen Chat",
+            "icon": "https://logo.clearbit.com/chat.qwen.ai",
+            "url": "https://chat.qwen.ai/"
           },
           {
             "type": "link",
-            "addDate": 1692068233000,
-            "title": "讯飞星火",
-            "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
-            "url": "https://xinghuo.xfyun.cn/desk"
+            "addDate": 1773220220086,
+            "title": "OpenClaw 官网",
+            "icon": "https://logo.clearbit.com/openclaw.ai",
+            "url": "https://openclaw.ai/"
           },
           {
             "type": "link",
-            "addDate": 1696660181000,
-            "title": "天工",
-            "icon": "https://logo.clearbit.com/www.tiangong.cn",
-            "url": "https://www.tiangong.cn/"
+            "addDate": 1773220240883,
+            "title": "Ollama官网",
+            "icon": "https://logo.clearbit.com/ollama.com",
+            "url": "https://ollama.com/"
           },
           {
             "type": "link",
-            "addDate": 1701762603000,
-            "title": "ChatGPT",
-            "icon": "https://logo.clearbit.com/chat.openai.com",
-            "url": "https://chat.openai.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1740643701510,
-            "title": "知乎直答",
-            "icon": "https://logo.clearbit.com/zhida.zhihu.com",
-            "url": "https://zhida.zhihu.com/?next=https%3A%2F%2Fzhida.zhihu.com"
-          },
-          {
-            "type": "link",
-            "addDate": 1741856893120,
-            "title": "股票AI分析系统",
-            "icon": "https://logo.clearbit.com/finance.940212.xyz",
-            "url": "https://finance.940212.xyz/#/"
+            "addDate": 1773221676970,
+            "title": "OpenClaw Control",
+            "icon": "https://logo.clearbit.com/127.0.0.1",
+            "url": "http://127.0.0.1:18789/chat?session=main"
           }
         ]
       },
@@ -43249,13 +43270,6 @@
             "title": "在线翻译_有道",
             "icon": "https://logo.clearbit.com/fanyi.youdao.com",
             "url": "https://fanyi.youdao.com/?keyfrom=fanyi-new.logo"
-          },
-          {
-            "type": "link",
-            "addDate": 1687744787000,
-            "title": "AI翻译",
-            "icon": "https://logo.clearbit.com/translate.limit.dev",
-            "url": "https://translate.limit.dev/"
           }
         ]
       },
@@ -44523,13 +44537,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1716184613000,
-                "title": "85电影网-高清电影下载",
-                "icon": "https://logo.clearbit.com/85128.net",
-                "url": "https://85128.net/"
-              },
-              {
-                "type": "link",
                 "addDate": 1717382330000,
                 "title": "SeedHub | 影视&动漫分享",
                 "icon": "https://logo.clearbit.com/www.seedhub.cc",
@@ -44541,6 +44548,13 @@
                 "title": "观影 GYING",
                 "icon": "https://logo.clearbit.com/www.gying.org",
                 "url": "https://www.gying.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1776240497677,
+                "title": "饭太硬 | 导航",
+                "icon": "https://logo.clearbit.com/www.xn--sss604efuw.net",
+                "url": "https://www.xn--sss604efuw.net/"
               }
             ]
           },
@@ -44817,6 +44831,13 @@
           },
           {
             "type": "link",
+            "addDate": 1775030024789,
+            "title": "茶杯狐",
+            "icon": "https://logo.clearbit.com/www.cupfox.ai",
+            "url": "https://www.cupfox.ai/"
+          },
+          {
+            "type": "link",
             "addDate": 1691992718000,
             "title": "影猫の仓库 | 免费观影第一站！",
             "icon": "https://logo.clearbit.com/ymck.pro",
@@ -44957,13 +44978,6 @@
           },
           {
             "type": "link",
-            "addDate": 1708911736000,
-            "title": "小报",
-            "icon": "https://logo.clearbit.com/baoxiaobao.asia",
-            "url": "http://baoxiaobao.asia/baoxiaobao.html"
-          },
-          {
-            "type": "link",
             "addDate": 1677232931000,
             "title": "哎呦不错",
             "icon": "https://logo.clearbit.com/aiyoubucuo.com",
@@ -45003,13 +45017,6 @@
             "title": "数字尾巴",
             "icon": "https://logo.clearbit.com/www.dgtle.com",
             "url": "https://www.dgtle.com/feed"
-          },
-          {
-            "type": "link",
-            "addDate": 1728893951000,
-            "title": "赚客大家谈",
-            "icon": "https://logo.clearbit.com/v1.xianbao.net",
-            "url": "https://v1.xianbao.net/forum-2-1.html"
           },
           {
             "type": "link",
@@ -45393,6 +45400,13 @@
         "title": "自选股—东方财富网",
         "icon": "https://logo.clearbit.com/quote.eastmoney.com",
         "url": "https://quote.eastmoney.com/zixuan/?from=quotecenter"
+      },
+      {
+        "type": "link",
+        "addDate": 1771814077015,
+        "title": "数据胶囊",
+        "icon": "https://logo.clearbit.com/data.cstcloud.cn",
+        "url": "https://data.cstcloud.cn/my/data/all"
       },
       {
         "type": "link",
@@ -46301,6 +46315,13 @@
             "title": "知乎plus",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/zly2006/zhihu-plus-plus/releases/tag/0.15.10"
+          },
+          {
+            "type": "link",
+            "addDate": 1775029970014,
+            "title": "Cassotis IME · 言泉输入法",
+            "icon": "https://logo.clearbit.com/www.yanquan.org",
+            "url": "https://www.yanquan.org/"
           }
         ]
       },
@@ -46447,6 +46468,13 @@
             "title": "大眼仔旭",
             "icon": "https://logo.clearbit.com/www.dayanzai.me",
             "url": "http://www.dayanzai.me/"
+          },
+          {
+            "type": "link",
+            "addDate": 1773048212899,
+            "title": "工具集_优秀软件网站集合",
+            "icon": "https://logo.clearbit.com/gongjuji.org",
+            "url": "https://gongjuji.org/"
           }
         ]
       },
@@ -46823,6 +46851,13 @@
             "title": "盘库吧",
             "icon": "https://logo.clearbit.com/panku8.com",
             "url": "https://panku8.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1771824037764,
+            "title": "网盘俱乐部 - 高质量百度网盘搜索引擎_百度云资源搜索神器",
+            "icon": "https://logo.clearbit.com/pan.club",
+            "url": "https://pan.club/"
           }
         ]
       },
@@ -47572,6 +47607,13 @@
         "title": "小米云服务",
         "icon": "https://logo.clearbit.com/i.mi.com",
         "url": "https://i.mi.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1772422663632,
+        "title": "北通阿修罗2Pro说明书",
+        "icon": "https://logo.clearbit.com/www.yuque.com",
+        "url": "https://www.yuque.com/fujuan-us0ly/eo6c8f/ms33tmlxdn36su3f"
       }
     ]
   }
